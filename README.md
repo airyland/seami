@@ -1,2 +1,4 @@
-seami
+Seami
 =====
+
+Seajs Module Minimize tool.
